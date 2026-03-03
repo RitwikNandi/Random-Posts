@@ -219,3 +219,5 @@ The system can evolve from JSON → Database → Distributed storage without rew
 This architecture transforms a simple JSON-based demo into a scalable backend foundation.
 
 It is struct
+
+----this markdown was written by an LLM, I am too lazy to make these docs, but it somes up the project quite nicely[thumbs up emoji]----
